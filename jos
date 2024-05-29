@@ -5,3 +5,12 @@ Under your repository name, click Settings. ...
 Under "Default branch", to the right of the default branch name, click .
 Select the branch dropdown menu and click a branch name.
 Click Update.
+
+
+As a contributor to Microsoft Learn documentation, you'll interact with multiple tools and processes. You'll work in parallel with other contributors on the same project, potentially the exact same content, even at the same time. This is all enabled through Git and GitHub software.
+
+Git is an open-source version control system. It facilitates this type of project collaboration through distributed version control of files that live in repositories. In essence, Git makes it possible to integrate streams of work done by multiple contributors over time, for a given repository.
+
+GitHub is a web-based hosting service for Git repositories, such as those used to store Microsoft Learn content. For any project, GitHub hosts the main repository, from which contributors can make copies for their own work.
+
+This article defines key terms that are part of the Microsoft Learn workflow. It also provides an overview of Git and GitHub repositories, and explains how content is organized for Microsoft technical documentation.
