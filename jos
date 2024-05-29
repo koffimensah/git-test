@@ -6,5 +6,10 @@ Under "Default branch", to the right of the default branch name, click .
 Select the branch dropdown menu and click a branch name.
 Click Update.
 
+Branches separate streams of work (typically referred to as versions). Contributions are always made and scoped to a specific branch.
 
  Git and GitHub repositories, and explains how content is organized for Microsoft technical documentation.
+
+All repositories contain a default branch (typically named "main") and one or more work-in-progress branches (which we call working branches) that have not yet been integrated into the default branch. 
+The default branch serves as the current version and "single source of truth" for the project. 
+It's the parent from which all other branches in the repository are created.
